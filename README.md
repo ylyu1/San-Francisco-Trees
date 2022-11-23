@@ -8,7 +8,7 @@ To build a BI dashboard using Google Data Studio and BigQuery
 
 ## Data source
 - In the BigQuery console, add the dataset 'bigquery-public-data' and star it
-- In your projects, create a new and seperate dataset named as 'Reports'. This dataset will only includes our interested information extracted from the public data, which reduce the amount of the data. 
+- In your projects, create a new and seperate dataset named as 'Reports'. This dataset will only includes our interested information extracted from the public data, which reduce the amount of the data and costs.
 - Write a one-time sql query below to pull the data from 'Street Trees' in 'bigquery-public-data' to our created dataset 'Report'. The query includes the last year information of plant months, the number of trees planted, the species of the planted trees, the care_taker's names, the address and the location where the trees were planted. Before running the data, we want to put the results into a new table named as 'Trees' under the 'Reports' dataset. In the 'More' setting, choose a destination table for query results. Put in the 'Reports' dataset and save. Then run the below sql query. You can see the results pop out.
 ```
 SELECT
