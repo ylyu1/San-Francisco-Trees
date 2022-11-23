@@ -1,7 +1,7 @@
 # San-Francisco-Trees
 
 credit: https://www.coursera.org/projects/googlecloud-how-to-build-a-bi-dashboard-using-google-data-studio-and-bigqu-cfi1a
-        <br> https://cloud.google.com/blog/products/gcp/how-to-build-a-bi-dashboard-using-google-data-studio-and-bigquery
+        https://cloud.google.com/blog/products/gcp/how-to-build-a-bi-dashboard-using-google-data-studio-and-bigquery
 
 ## Purpose
 To build a BI dashboard using Google Data Studio and BigQuery
