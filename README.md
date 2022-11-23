@@ -54,4 +54,4 @@ GROUP BY
   site_info
   ```
   ## Data visualizations
-  - In Data Studio, create a new report and choose the dataset 'Reports' and then 'Trees'. Then create the dashboard. 
+  - In Data Studio, create a new report and choose the dataset 'Reports' and then the table 'Trees'. Then create the dashboard. 
